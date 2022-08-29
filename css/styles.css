@@ -526,6 +526,8 @@ img {
 }
 
 .footer-form-text {
+  display: block;
+  font-style: normal;
   margin-bottom: 20px;
   font-weight: 700;
   line-height: 1.14;
@@ -782,7 +784,7 @@ img {
 
 /* ==============PAGE-PORTFOLIO================= */
 
-/* ----------section-portfolio------------ */
+/* ----------filter-btn------------ */
 
 .filter-btn {
   border-radius: 4px;
